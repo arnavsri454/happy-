@@ -12,7 +12,7 @@ function sendWish() {
     } else if (name === "anvesha" || name === "shreyansh") {
         messageElement.textContent = "Happy New Year, Dear friend! 🎉 , Here's to another year of endless love, joy, and adventures with you. Happy New Year, Wishing you a wonderful year ahead, from Arnav! 🎊";
     }else if (name === "kanishka"  || name === "anusha" ) {
-        messageElement.textContent = "To my little sister, Kanishka, may the New Year bless you with endless smiles, laughter, and wonderful memories. 💖🎉 Wishing you a fantastic year ahead!, Happy new year ahead , from your brother Arnav(SUMMONER)";
+        messageElement.textContent = "To my little sister,  may the New Year bless you with endless smiles, laughter, and wonderful memories. 💖🎉 Wishing you a fantastic year ahead!, Happy new year ahead , from your brother Arnav(SUMMONER)";
     }
      else {
         messageElement.textContent = "Happy New Year, " + name.charAt(0).toUpperCase() + name.slice(1) + "! 🎉 Wishing you a fantastic year ahead, from Arnav! 🎊";
